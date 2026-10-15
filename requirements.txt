@@ -1,4 +1,3 @@
-cat > requirements.txt << 'EOF'
 fastapi
 uvicorn
 pandas
@@ -8,4 +7,3 @@ scipy
 pymysql
 sqlalchemy
 cryptography
-EOF
